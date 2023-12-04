@@ -1,0 +1,11 @@
+.idea/
+.vs/
+
+/PulseStore.BLL/obj
+/PulseStore.BLL/bin
+/PulseStore.DAL/bin
+/PulseStore.DAL/obj
+/PulseStore.PL/bin
+/PulseStore.PL/obj
+.idea
+.vs
